@@ -87,6 +87,10 @@ class BasePage:
         if ele:
             Select(ele).select_by_value(value)
 
+    # 清空输入框的内容
+    def clear(self, loc):
+        self.locator(loc).clear()
+
 
 '''
  # 打印当前地址
