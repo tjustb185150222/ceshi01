@@ -1,3 +1,4 @@
+"""
 # 这是一个示例 Python 脚本。
 
 # 按 Shift+F10 执行或将其替换为您的代码。
@@ -14,5 +15,13 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
+"""
+# coding = utf-8
+
+import unittest
+
+discover = unittest.defaultTestLoader.discover('test_cases', pattern='test_case_*.py', top_level_dir=None)
+runner = unittest.TextTestRunner()
+runner.run(discover)
 
 
