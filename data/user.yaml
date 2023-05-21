@@ -1,0 +1,12 @@
+# - 功能是实现多组数据
+-
+   username: 'admin'
+   password: 123456
+   type: 1
+-
+  username: '张三'
+  password: '111'
+  type: 3
+#
+
+
