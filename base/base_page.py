@@ -27,11 +27,11 @@ class BasePage:
     # 构造函数
     def __init__(self, driver):
         self.driver = driver
-        self.driver.maximize_window()
 
     # 访问url
     def visit(self, url):
         self.driver.get(url)
+        self.driver.maximize_window()
 
     # 元素定位
     def locator(self, loc):

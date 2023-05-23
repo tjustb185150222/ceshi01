@@ -6,6 +6,7 @@ from ddt import ddt, file_data, data, unpack
 from selenium import webdriver
 
 from page_object.AddStudent import AddStudent
+from page_object.Delete_Student import DeleteStudent
 from page_object.Student_SouSuo import StudentSouSuo
 from page_object.Student_login import StudentLogin
 from page_object.Update_Student import UpdateStudent
@@ -24,6 +25,7 @@ class TestCase(unittest.TestCase):
         cls.sousuo = StudentSouSuo(cls.driver)
         cls.addStudent = AddStudent(cls.driver)
         cls.updateStudent = UpdateStudent(cls.driver)
+        cls.deleteStudent = DeleteStudent(cls.driver)
 
     @classmethod
     def tearDownClass(cls) -> None:
@@ -66,6 +68,19 @@ class TestCase(unittest.TestCase):
         except ZeroDivisionError as e:
             print("学生信息管理-学生列表-修改功能错误信息：", e)
         time.sleep(5)
+
+    # 学生信息管理-学生列表-删除功能测试用例执行
+    def test_5_deleteStudent(self):
+        text = self.deleteStudent.deleteStudent()
+        try:
+            self.assertEqual('全部删除成功', text)
+            print('删除功能成功')
+        except Exception as e:
+            print("学生信息管理-学生列表-删除功能错误信息：", e)
+        time.sleep(5)
+
+
+
 
 
 if __name__ == '__main__':
