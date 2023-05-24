@@ -1,15 +1,15 @@
+import logging
 import random
 import time
 import unittest
 
 from ddt import ddt, file_data, data, unpack
 from selenium import webdriver
-
-from page_object.AddStudent import AddStudent
-from page_object.Delete_Student import DeleteStudent
-from page_object.Student_SouSuo import StudentSouSuo
-from page_object.Student_login import StudentLogin
-from page_object.Update_Student import UpdateStudent
+from page_objects.AddStudent import AddStudent
+from page_objects.Delete_Student import DeleteStudent
+from page_objects.Student_SouSuo import StudentSouSuo
+from page_objects.Student_login import StudentLogin
+from page_objects.Update_Student import UpdateStudent
 
 
 # 登录测试用例的设计
@@ -18,6 +18,7 @@ from page_object.Update_Student import UpdateStudent
 
 @ddt
 class TestCase(unittest.TestCase):
+
     @classmethod
     def setUpClass(cls) -> None:
         cls.driver = webdriver.Chrome()
@@ -39,9 +40,13 @@ class TestCase(unittest.TestCase):
         # self.sousuo.SouSuo('测试3')
 
     # 学生信息管理-学生列表-搜索功能测试用例执行
-    @data('测试3', '张一泽', '张三纷')
+    @data('测试', '张一泽', '张三纷')
     def test_2_sousuo(self, txt):
         self.sousuo.SouSuo(txt)
+        try:
+            self.assertIn(txt, '测试', '搜索功能成功')
+        except Exception as e:
+            print('搜索功能失败，输出错误信息', e)
         time.sleep(5)
 
     # 学生信息管理-学生列表-添加功能测试用例执行
