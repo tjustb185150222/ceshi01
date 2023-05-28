@@ -1,0 +1,848 @@
+2023-05-28 16:16:22,523 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="238138e12a7cc8917a19579fb9a5b412")>浏览器
+2023-05-28 16:16:22,526 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="238138e12a7cc8917a19579fb9a5b412")>浏览器
+2023-05-28 16:16:22,526 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="238138e12a7cc8917a19579fb9a5b412")>浏览器
+2023-05-28 16:16:22,527 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="238138e12a7cc8917a19579fb9a5b412")>浏览器
+2023-05-28 16:16:22,527 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="238138e12a7cc8917a19579fb9a5b412")>浏览器
+2023-05-28 16:16:22,528 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:16:23,173 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 16:16:23,294 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 16:16:23,365 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 16:16:23,418 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:16:28,117 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:16:28,193 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 16:16:28,259 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 16:16:28,310 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 16:16:28,345 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:16:32,926 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:16:35,106 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:16:37,233 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 16:16:37,286 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 16:16:37,368 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 16:16:37,419 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 16:16:39,531 - main.Student_login - test_case_01.py[line:48] - INFO - 搜索成功
+2023-05-28 16:16:44,550 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:16:44,749 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:16:45,004 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 16:16:45,096 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 16:16:45,184 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加32
+2023-05-28 16:16:45,218 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 16:16:45,280 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 16:16:45,337 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 16:16:45,390 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 16:16:45,448 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 16:16:45,512 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 16:16:45,570 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 16:16:45,628 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 16:16:45,665 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:16:47,816 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:16:49,900 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:16:50,106 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:16:50,367 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:16:50,455 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 16:16:50,578 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改72
+2023-05-28 16:16:50,635 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 16:16:50,696 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 16:16:50,783 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 16:16:50,883 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 16:16:50,935 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 16:16:50,993 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 16:16:51,056 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:16:51,162 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:17:01,218 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:17:01,418 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:17:01,686 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:17:01,801 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 16:17:01,863 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 16:17:03,970 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:20:52,437 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="69bbe212c2e77f5379f1add24c0d0c62")>浏览器
+2023-05-28 16:20:52,439 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="69bbe212c2e77f5379f1add24c0d0c62")>浏览器
+2023-05-28 16:20:52,439 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="69bbe212c2e77f5379f1add24c0d0c62")>浏览器
+2023-05-28 16:20:52,440 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="69bbe212c2e77f5379f1add24c0d0c62")>浏览器
+2023-05-28 16:20:52,440 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="69bbe212c2e77f5379f1add24c0d0c62")>浏览器
+2023-05-28 16:20:52,440 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:20:52,994 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 16:20:53,115 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 16:20:53,180 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 16:20:53,214 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:20:57,975 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:20:58,048 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 16:20:58,116 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 16:20:58,174 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 16:20:58,215 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:21:02,788 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:21:04,992 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:21:07,091 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 16:21:07,146 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 16:21:07,231 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 16:21:07,282 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 16:21:09,366 - main.Student_login - test_case_01.py[line:48] - INFO - 搜索成功
+2023-05-28 16:21:14,373 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:21:14,570 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:21:14,820 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 16:21:14,894 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 16:21:14,981 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加66
+2023-05-28 16:21:15,016 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 16:21:15,080 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 16:21:15,138 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 16:21:15,191 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 16:21:15,252 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 16:21:15,316 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 16:21:15,375 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 16:21:15,432 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 16:21:15,462 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:21:17,580 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:21:19,666 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:21:19,852 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:21:20,111 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:21:20,185 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 16:21:20,317 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改33
+2023-05-28 16:21:20,368 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 16:21:20,431 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 16:21:20,519 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 16:21:20,623 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 16:21:20,675 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 16:21:20,734 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 16:21:20,788 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:21:20,910 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:21:30,972 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:21:31,180 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:21:31,456 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:21:31,558 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 16:21:31,627 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 16:21:33,739 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:28:20,435 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="526fca8d08dd1328228a510be4e425fe")>浏览器
+2023-05-28 16:28:20,438 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="526fca8d08dd1328228a510be4e425fe")>浏览器
+2023-05-28 16:28:20,438 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="526fca8d08dd1328228a510be4e425fe")>浏览器
+2023-05-28 16:28:20,438 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="526fca8d08dd1328228a510be4e425fe")>浏览器
+2023-05-28 16:28:20,439 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="526fca8d08dd1328228a510be4e425fe")>浏览器
+2023-05-28 16:28:20,440 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:28:20,919 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 16:28:21,021 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 16:28:21,079 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 16:28:21,117 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:28:25,837 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:28:25,915 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 16:28:25,974 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 16:28:26,020 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 16:28:26,055 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:28:30,628 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:28:32,814 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:28:34,908 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 16:28:34,956 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 16:28:35,034 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 16:28:35,113 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 16:28:37,236 - main.Student_login - test_case_01.py[line:48] - INFO - 搜索成功
+2023-05-28 16:28:42,244 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:28:42,468 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:28:42,742 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 16:28:42,843 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 16:28:42,934 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加13
+2023-05-28 16:28:42,964 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 16:28:43,026 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 16:28:43,087 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 16:28:43,142 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 16:28:43,195 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 16:28:43,258 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 16:28:43,321 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 16:28:43,385 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 16:28:43,428 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:28:45,593 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:28:47,663 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:28:47,859 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:28:48,132 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:28:48,209 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 16:28:48,320 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改25
+2023-05-28 16:28:48,360 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 16:28:48,422 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 16:28:48,506 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 16:28:48,578 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 16:28:48,615 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 16:28:48,674 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 16:28:48,734 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:28:48,871 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:28:58,938 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:28:59,167 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:28:59,448 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:28:59,557 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 16:28:59,620 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 16:29:01,723 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:37:44,952 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="f4a1c0e8bb1fbc78598e6f18b6dac66c")>浏览器
+2023-05-28 16:37:44,955 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="f4a1c0e8bb1fbc78598e6f18b6dac66c")>浏览器
+2023-05-28 16:37:44,955 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="f4a1c0e8bb1fbc78598e6f18b6dac66c")>浏览器
+2023-05-28 16:37:44,955 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="f4a1c0e8bb1fbc78598e6f18b6dac66c")>浏览器
+2023-05-28 16:37:44,956 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="f4a1c0e8bb1fbc78598e6f18b6dac66c")>浏览器
+2023-05-28 16:37:44,956 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:37:45,336 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 16:37:45,464 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 16:37:45,535 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 16:37:45,588 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:37:50,343 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:37:50,435 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 16:37:50,500 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 16:37:50,552 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 16:37:50,590 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:37:55,178 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:37:57,378 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:37:59,513 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 16:37:59,565 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 16:37:59,645 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 16:37:59,700 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 16:38:06,842 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:38:07,038 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:38:07,289 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 16:38:07,370 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 16:38:07,469 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加25
+2023-05-28 16:38:07,506 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 16:38:07,572 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 16:38:07,629 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 16:38:07,683 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 16:38:07,751 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 16:38:07,817 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 16:38:07,876 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 16:38:07,937 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 16:38:07,968 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:38:10,126 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:38:12,189 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:38:12,391 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:38:12,664 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:38:12,747 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 16:38:12,859 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改94
+2023-05-28 16:38:12,913 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 16:38:12,977 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 16:38:13,064 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 16:38:13,162 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 16:38:13,216 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 16:38:13,282 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 16:38:13,336 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:38:13,444 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:38:23,516 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:38:23,779 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:38:24,074 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:38:24,159 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 16:38:24,221 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 16:38:26,313 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:41:36,290 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="0c98ab2ef9f6ca1097899eddc784992d")>浏览器
+2023-05-28 16:41:36,292 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="0c98ab2ef9f6ca1097899eddc784992d")>浏览器
+2023-05-28 16:41:36,292 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="0c98ab2ef9f6ca1097899eddc784992d")>浏览器
+2023-05-28 16:41:36,293 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="0c98ab2ef9f6ca1097899eddc784992d")>浏览器
+2023-05-28 16:41:36,293 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="0c98ab2ef9f6ca1097899eddc784992d")>浏览器
+2023-05-28 16:41:36,293 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:41:36,688 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 16:41:36,808 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 16:41:36,875 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 16:41:36,922 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:41:41,679 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:41:41,762 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 16:41:41,833 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 16:41:41,882 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 16:41:41,919 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:41:46,480 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:41:48,674 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:41:50,811 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 16:41:50,864 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 16:41:50,947 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 16:41:51,002 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 16:41:58,154 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:41:58,374 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:41:58,644 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 16:41:58,716 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 16:41:58,819 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加54
+2023-05-28 16:41:58,858 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 16:41:58,922 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 16:41:58,982 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 16:41:59,036 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 16:41:59,111 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 16:41:59,182 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 16:41:59,241 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 16:41:59,294 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 16:41:59,326 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:42:01,449 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:42:03,532 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:42:03,761 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:42:04,037 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:42:04,115 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 16:42:04,235 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改48
+2023-05-28 16:42:04,288 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 16:42:04,348 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 16:42:04,434 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 16:42:04,530 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 16:42:04,587 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 16:42:04,649 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 16:42:04,704 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:42:04,813 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:42:14,876 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:42:15,072 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:42:15,325 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:42:15,429 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 16:42:15,493 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 16:42:17,627 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:48:31,431 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="ebad12202e5abc96c9f91a8fa070b748")>浏览器
+2023-05-28 16:48:31,434 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="ebad12202e5abc96c9f91a8fa070b748")>浏览器
+2023-05-28 16:48:31,434 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="ebad12202e5abc96c9f91a8fa070b748")>浏览器
+2023-05-28 16:48:31,435 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="ebad12202e5abc96c9f91a8fa070b748")>浏览器
+2023-05-28 16:48:31,435 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="ebad12202e5abc96c9f91a8fa070b748")>浏览器
+2023-05-28 16:48:31,435 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:48:31,988 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 16:48:32,134 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 16:48:32,303 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 16:48:32,364 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:48:37,128 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:48:37,212 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 16:48:37,280 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 16:48:37,331 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 16:48:37,367 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:48:41,946 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:48:44,142 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:48:46,250 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 16:48:46,305 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 16:48:46,387 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 16:48:46,439 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 16:48:53,548 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:48:53,774 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:48:54,032 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 16:48:54,110 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 16:48:54,214 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加18
+2023-05-28 16:48:54,250 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 16:48:54,312 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 16:48:54,369 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 16:48:54,424 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 16:48:54,490 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 16:48:54,557 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 16:48:54,620 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 16:48:54,680 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 16:48:54,715 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:48:56,872 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:48:58,956 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:48:59,154 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:48:59,408 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:48:59,481 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 16:48:59,606 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改39
+2023-05-28 16:48:59,661 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 16:48:59,725 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 16:48:59,810 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 16:48:59,906 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 16:48:59,966 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 16:49:00,040 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 16:49:00,100 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:49:00,231 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:49:10,303 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:49:10,512 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:49:10,789 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:49:10,886 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 16:49:10,948 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 16:49:13,038 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:58:42,608 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="207248bd7df58377602cf112bcdfe816")>浏览器
+2023-05-28 16:58:42,610 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="207248bd7df58377602cf112bcdfe816")>浏览器
+2023-05-28 16:58:42,611 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="207248bd7df58377602cf112bcdfe816")>浏览器
+2023-05-28 16:58:42,611 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="207248bd7df58377602cf112bcdfe816")>浏览器
+2023-05-28 16:58:42,612 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="207248bd7df58377602cf112bcdfe816")>浏览器
+2023-05-28 16:58:42,612 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:58:43,075 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 16:58:43,199 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 16:58:43,275 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 16:58:43,338 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:58:48,136 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 16:58:48,204 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 16:58:48,271 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 16:58:48,322 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 16:58:48,363 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 16:58:52,943 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:58:55,134 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:58:57,235 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 16:58:57,287 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 16:58:57,373 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 16:58:57,430 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 16:59:04,595 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 16:59:04,806 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 16:59:05,057 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 16:59:05,132 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 16:59:05,234 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加72
+2023-05-28 16:59:05,269 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 16:59:05,331 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 16:59:05,388 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 16:59:05,442 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 16:59:05,509 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 16:59:05,573 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 16:59:05,632 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 16:59:05,686 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 16:59:05,726 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:59:07,868 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:59:09,942 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:59:10,154 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:59:10,452 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:59:10,519 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 16:59:10,639 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改70
+2023-05-28 16:59:10,700 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 16:59:10,766 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 16:59:10,853 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 16:59:10,952 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 16:59:11,007 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 16:59:11,065 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 16:59:11,116 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 16:59:11,222 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 16:59:21,283 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 16:59:21,481 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 16:59:21,748 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 16:59:21,848 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 16:59:21,912 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 16:59:24,019 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:05:48,940 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="75b52d544b334149c9442f4dea69c65f")>浏览器
+2023-05-28 17:05:48,941 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="75b52d544b334149c9442f4dea69c65f")>浏览器
+2023-05-28 17:05:48,942 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="75b52d544b334149c9442f4dea69c65f")>浏览器
+2023-05-28 17:05:48,942 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="75b52d544b334149c9442f4dea69c65f")>浏览器
+2023-05-28 17:05:48,942 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="75b52d544b334149c9442f4dea69c65f")>浏览器
+2023-05-28 17:05:48,943 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 17:05:49,364 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 17:05:49,510 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 17:05:49,612 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 17:05:49,676 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 17:05:54,465 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 17:05:54,532 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 17:05:54,599 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 17:05:54,649 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 17:05:54,684 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 17:05:59,252 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 17:06:01,449 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 17:06:03,576 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 17:06:03,631 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 17:06:03,725 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 17:06:03,778 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 17:06:05,870 - main.Student_login - test_case_01.py[line:48] - INFO - 搜索条件姓名输入框中输入测试
+2023-05-28 17:06:10,885 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 17:06:11,099 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 17:06:11,350 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 17:06:11,428 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 17:06:11,515 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加25
+2023-05-28 17:06:11,551 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 17:06:11,615 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 17:06:11,673 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 17:06:11,728 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 17:06:11,792 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 17:06:11,859 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 17:06:11,919 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 17:06:11,978 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 17:06:12,010 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 17:06:14,137 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:06:16,202 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 17:06:16,407 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 17:06:16,660 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 17:06:16,735 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 17:06:16,871 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改17
+2023-05-28 17:06:16,931 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 17:06:16,989 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 17:06:17,079 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 17:06:17,168 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 17:06:17,223 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 17:06:17,282 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 17:06:17,340 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 17:06:17,447 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:06:27,513 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 17:06:27,708 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 17:06:27,974 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 17:06:28,045 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 17:06:28,125 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 17:06:30,252 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:07:54,338 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="644ef2f4991f6b378551474235986529")>浏览器
+2023-05-28 17:07:54,338 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="644ef2f4991f6b378551474235986529")>浏览器
+2023-05-28 17:07:54,339 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="644ef2f4991f6b378551474235986529")>浏览器
+2023-05-28 17:07:54,339 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="644ef2f4991f6b378551474235986529")>浏览器
+2023-05-28 17:07:54,340 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="644ef2f4991f6b378551474235986529")>浏览器
+2023-05-28 17:07:54,340 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 17:07:54,838 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 17:07:55,027 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 17:07:55,134 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 17:07:55,200 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 17:07:59,995 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 17:08:00,092 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 17:08:00,157 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 17:08:00,217 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 17:08:00,260 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 17:08:04,838 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 17:08:07,034 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 17:08:09,163 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 17:08:09,218 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 17:08:09,299 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 17:08:09,354 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 17:08:11,440 - main.Student_login - test_case_01.py[line:48] - INFO - 搜索条件姓名输入框中输入测试
+2023-05-28 17:08:16,449 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 17:08:16,635 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 17:08:16,899 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 17:08:16,981 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 17:08:17,083 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加70
+2023-05-28 17:08:17,120 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 17:08:17,184 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 17:08:17,243 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 17:08:17,296 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 17:08:17,365 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 17:08:17,431 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 17:08:17,492 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 17:08:17,566 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 17:08:17,598 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 17:08:19,726 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:08:21,799 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 17:08:21,990 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 17:08:22,319 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 17:08:22,392 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 17:08:22,517 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改91
+2023-05-28 17:08:22,570 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 17:08:22,633 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 17:08:22,725 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 17:08:22,822 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 17:08:22,879 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 17:08:22,938 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 17:08:22,999 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 17:08:23,112 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:08:33,182 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 17:08:33,407 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 17:08:33,677 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 17:08:33,774 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 17:08:33,840 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 17:08:35,957 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:25:05,351 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="9505939f87fbbaa30c28fad424b1f427")>浏览器
+2023-05-28 17:25:05,353 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="9505939f87fbbaa30c28fad424b1f427")>浏览器
+2023-05-28 17:25:05,354 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="9505939f87fbbaa30c28fad424b1f427")>浏览器
+2023-05-28 17:25:05,354 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="9505939f87fbbaa30c28fad424b1f427")>浏览器
+2023-05-28 17:25:05,355 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="9505939f87fbbaa30c28fad424b1f427")>浏览器
+2023-05-28 17:25:05,355 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 17:25:05,687 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 17:25:05,813 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 17:25:05,895 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 17:25:05,946 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 17:25:10,668 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 17:25:10,754 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 17:25:10,820 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 17:25:10,872 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 17:25:10,908 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 17:25:15,486 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 17:25:17,689 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 17:25:19,810 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 17:25:19,862 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 17:25:19,947 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 17:25:20,000 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 17:25:22,091 - main.Student_login - test_case_01.py[line:48] - INFO - 搜索条件姓名输入框中输入测试
+2023-05-28 17:25:27,108 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 17:25:27,308 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 17:25:27,566 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 17:25:27,656 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 17:25:27,745 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加94
+2023-05-28 17:25:27,778 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 17:25:27,840 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 17:25:27,897 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 17:25:27,949 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 17:25:28,011 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 17:25:28,076 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 17:25:28,138 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 17:25:28,197 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 17:25:28,241 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 17:25:30,401 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:25:32,470 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 17:25:32,663 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 17:25:32,929 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 17:25:32,999 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 17:25:33,128 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改56
+2023-05-28 17:25:33,186 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 17:25:33,247 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 17:25:33,343 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 17:25:33,445 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 17:25:33,502 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 17:25:33,558 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 17:25:33,620 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 17:25:33,761 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:25:43,824 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 17:25:44,032 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 17:25:44,304 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 17:25:44,413 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 17:25:44,472 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 17:25:46,578 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:25:46,631 - main.Delete_Student - test_case_01.py[line:84] - INFO - 输出姓名为测试修改56的数据
+2023-05-28 17:41:15,921 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="e770d370d23145316114c2f3094bc6ed")>浏览器
+2023-05-28 17:41:15,923 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="e770d370d23145316114c2f3094bc6ed")>浏览器
+2023-05-28 17:41:15,924 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="e770d370d23145316114c2f3094bc6ed")>浏览器
+2023-05-28 17:41:15,924 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="e770d370d23145316114c2f3094bc6ed")>浏览器
+2023-05-28 17:41:15,924 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="e770d370d23145316114c2f3094bc6ed")>浏览器
+2023-05-28 17:41:15,925 - main.test_case - test_case_01.py[line:39] - INFO - 输入用户名admin，密码123456，管理人员类型1
+2023-05-28 17:41:15,926 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 17:41:16,408 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 17:41:16,490 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 17:41:16,564 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 17:41:16,600 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 17:41:21,326 - main.test_case - test_case_01.py[line:39] - INFO - 输入用户名张三，密码111，管理人员类型3
+2023-05-28 17:41:21,326 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 17:41:21,427 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 17:41:21,488 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 17:41:21,536 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 17:41:21,573 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 17:41:26,153 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 17:41:28,352 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 17:41:30,493 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 17:41:30,542 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 17:41:30,614 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 17:41:30,672 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 17:41:32,783 - main.test_cases - test_case_01.py[line:52] - INFO - 搜索条件姓名输入框中输入测试
+2023-05-28 17:41:37,788 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 17:41:38,032 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 17:41:38,287 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 17:41:38,390 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 17:41:38,469 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加95
+2023-05-28 17:41:38,498 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 17:41:38,551 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 17:41:38,616 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 17:41:38,671 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 17:41:38,718 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 17:41:38,767 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 17:41:38,826 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 17:41:38,882 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 17:41:38,943 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 17:41:41,102 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:41:43,170 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 17:41:43,401 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 17:41:43,692 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 17:41:43,780 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 17:41:43,888 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改46
+2023-05-28 17:41:43,931 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 17:41:43,993 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 17:41:44,081 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 17:41:44,156 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 17:41:44,198 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 17:41:44,265 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 17:41:44,321 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 17:41:44,444 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:41:54,505 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 17:41:54,737 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 17:41:55,159 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 17:41:55,256 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 17:41:55,324 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 17:41:57,407 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 17:41:57,459 - main.Delete_Student - test_case_01.py[line:91] - INFO - 删除姓名为测试修改46的数据
+2023-05-28 19:15:00,194 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="3dea109ef7571e0bdd95159f9c357c80")>浏览器
+2023-05-28 19:15:00,197 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="3dea109ef7571e0bdd95159f9c357c80")>浏览器
+2023-05-28 19:15:00,198 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="3dea109ef7571e0bdd95159f9c357c80")>浏览器
+2023-05-28 19:15:00,198 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="3dea109ef7571e0bdd95159f9c357c80")>浏览器
+2023-05-28 19:15:00,198 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="3dea109ef7571e0bdd95159f9c357c80")>浏览器
+2023-05-28 19:15:00,199 - main.test_case - test_case_01.py[line:44] - INFO - 输入用户名admin，密码123456，管理人员类型1
+2023-05-28 19:15:00,200 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 19:15:00,645 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 19:15:00,733 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 19:15:00,797 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 19:15:00,840 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 19:15:05,552 - main.test_case - test_case_01.py[line:44] - INFO - 输入用户名张三，密码111，管理人员类型3
+2023-05-28 19:15:05,552 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 19:15:05,648 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 19:15:05,704 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 19:15:05,757 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 19:15:05,794 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 19:15:10,369 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 19:15:12,575 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 19:15:14,685 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 19:15:14,734 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 19:15:14,812 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 19:15:14,869 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 19:15:16,973 - main.test_cases - test_case_01.py[line:60] - INFO - 搜索条件姓名输入框中输入测试
+2023-05-28 19:15:21,979 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 19:15:22,188 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 19:15:22,454 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 19:15:22,528 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 19:15:22,628 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加52
+2023-05-28 19:15:22,664 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 19:15:22,727 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 19:15:22,786 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 19:15:22,838 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 19:15:22,899 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 19:15:22,967 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 19:15:23,028 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 19:15:23,088 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\page_objects\img\学生管理系统登录功能成功.png
+2023-05-28 19:15:23,116 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 19:15:23,302 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 19:15:23,571 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 19:15:23,637 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 19:15:23,749 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改40
+2023-05-28 19:15:23,810 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 19:15:23,879 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 19:15:23,965 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 19:15:24,071 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 19:15:24,121 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 19:15:24,180 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 19:15:24,232 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 19:15:24,410 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 19:15:34,489 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 19:15:34,719 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 19:15:34,988 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 19:15:35,079 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 19:15:35,142 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 19:15:37,247 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 19:15:37,301 - main.Delete_Student - test_case_01.py[line:107] - INFO - 删除姓名为测试修改40的数据
+2023-05-28 19:23:42,145 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="98e0fd3e025f769327b94f90071d8d13")>浏览器
+2023-05-28 19:23:42,147 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="98e0fd3e025f769327b94f90071d8d13")>浏览器
+2023-05-28 19:23:42,148 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="98e0fd3e025f769327b94f90071d8d13")>浏览器
+2023-05-28 19:23:42,148 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="98e0fd3e025f769327b94f90071d8d13")>浏览器
+2023-05-28 19:23:42,148 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="98e0fd3e025f769327b94f90071d8d13")>浏览器
+2023-05-28 19:23:42,149 - main.test_case - test_case_01.py[line:44] - INFO - 输入用户名admin，密码123456，管理人员类型1
+2023-05-28 19:23:42,150 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 19:23:42,591 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 19:23:42,757 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 19:23:42,834 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 19:23:42,880 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 19:23:47,618 - main.test_case - test_case_01.py[line:44] - INFO - 输入用户名张三，密码111，管理人员类型3
+2023-05-28 19:23:47,619 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 19:23:47,698 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 19:23:47,766 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 19:23:47,822 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 19:23:47,858 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 19:23:52,443 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 19:23:54,637 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 19:23:56,755 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 19:23:56,816 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 19:23:56,894 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 19:23:56,947 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 19:23:59,075 - main.test_cases - test_case_01.py[line:60] - INFO - 搜索条件姓名输入框中输入测试
+2023-05-28 19:24:04,089 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 19:24:04,297 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 19:24:04,550 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 19:24:04,629 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 19:24:04,737 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加94
+2023-05-28 19:24:04,774 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 19:24:04,839 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 19:24:04,898 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 19:24:04,952 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 19:24:05,024 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 19:24:05,089 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 19:24:05,150 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 19:24:05,207 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\page_objects\img\学生管理系统登录功能成功.png
+2023-05-28 19:24:05,234 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 19:24:05,416 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 19:24:05,692 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 19:24:05,760 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 19:24:05,876 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改95
+2023-05-28 19:24:05,923 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 19:24:05,989 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 19:24:06,079 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 19:24:06,181 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 19:24:06,233 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 19:24:06,291 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 19:24:06,341 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 19:24:06,471 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 19:24:16,545 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 19:24:16,750 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 19:24:17,022 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 19:24:17,123 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 19:24:17,192 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 19:24:19,316 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 19:24:19,369 - main.Delete_Student - test_case_01.py[line:107] - INFO - 删除姓名为测试修改95的数据
+2023-05-28 19:34:14,028 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="9fbbe3bfe5f5c1d17890869b4b95185a")>浏览器
+2023-05-28 19:34:14,030 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="9fbbe3bfe5f5c1d17890869b4b95185a")>浏览器
+2023-05-28 19:34:14,030 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="9fbbe3bfe5f5c1d17890869b4b95185a")>浏览器
+2023-05-28 19:34:14,031 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="9fbbe3bfe5f5c1d17890869b4b95185a")>浏览器
+2023-05-28 19:34:14,031 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="9fbbe3bfe5f5c1d17890869b4b95185a")>浏览器
+2023-05-28 19:34:14,032 - main.test_case - test_case_01.py[line:44] - INFO - 输入用户名admin，密码123456，管理人员类型1
+2023-05-28 19:34:14,032 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 19:34:14,350 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 19:34:14,436 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 19:34:14,519 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 19:34:14,564 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 19:34:19,273 - main.test_case - test_case_01.py[line:44] - INFO - 输入用户名张三，密码111，管理人员类型3
+2023-05-28 19:34:19,273 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 19:34:19,337 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 19:34:19,407 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 19:34:19,457 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 19:34:19,497 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 19:34:24,064 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 19:34:26,243 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 19:34:28,372 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 19:34:28,427 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 19:34:28,511 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 19:34:28,561 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 19:34:30,661 - main.test_cases - test_case_01.py[line:60] - INFO - 搜索条件姓名输入框中输入测试
+2023-05-28 19:34:35,671 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 19:34:35,877 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 19:34:36,131 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 19:34:36,205 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 19:34:36,305 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加35
+2023-05-28 19:34:36,342 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 19:34:36,411 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 19:34:36,468 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 19:34:36,520 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 19:34:36,580 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 19:34:36,646 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 19:34:36,708 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 19:34:36,764 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 19:34:36,796 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 19:34:38,931 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 19:34:41,011 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 19:34:41,214 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 19:34:41,462 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 19:34:41,546 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 19:34:41,660 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改41
+2023-05-28 19:34:41,713 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 19:34:41,778 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 19:34:41,874 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 19:34:41,968 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 19:34:42,025 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 19:34:42,086 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 19:34:42,144 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 19:34:42,271 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 19:34:52,338 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 19:34:52,529 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 19:34:52,793 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 19:34:52,899 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 19:34:52,963 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 19:34:55,074 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 19:34:55,126 - main.Delete_Student - test_case_01.py[line:107] - INFO - 删除姓名为测试修改41的数据
+2023-05-28 19:36:37,503 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="7c4ce8926143975af251235fd9c4cfa5")>浏览器
+2023-05-28 19:36:37,504 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="7c4ce8926143975af251235fd9c4cfa5")>浏览器
+2023-05-28 19:36:37,508 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="7c4ce8926143975af251235fd9c4cfa5")>浏览器
+2023-05-28 19:36:37,508 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="7c4ce8926143975af251235fd9c4cfa5")>浏览器
+2023-05-28 19:36:37,508 - main.base - base_page.py[line:33] - INFO - 初始化<selenium.webdriver.chrome.webdriver.WebDriver (session="7c4ce8926143975af251235fd9c4cfa5")>浏览器
+2023-05-28 19:36:37,509 - main.test_case - test_case_01.py[line:44] - INFO - 输入用户名admin，密码123456，管理人员类型1
+2023-05-28 19:36:37,509 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 19:36:38,074 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入admin
+2023-05-28 19:36:38,167 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入123456
+2023-05-28 19:36:38,228 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(3) > div > ins')，进行点击
+2023-05-28 19:36:38,268 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 19:36:43,018 - main.test_case - test_case_01.py[line:44] - INFO - 输入用户名张三，密码111，管理人员类型3
+2023-05-28 19:36:43,018 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/的网址
+2023-05-28 19:36:43,095 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'username')，输入张三
+2023-05-28 19:36:43,163 - main.base - base_page.py[line:49] - INFO - 正在定位('id', 'password')，输入111
+2023-05-28 19:36:43,222 - main.base - base_page.py[line:58] - INFO - 正在定位('css selector', '#form > div.mt-20.skin-minimal > div:nth-child(2) > div > ins')，进行点击
+2023-05-28 19:36:43,261 - main.base - base_page.py[line:58] - INFO - 正在定位('id', 'submitBtn')，进行点击
+2023-05-28 19:36:47,847 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 19:36:50,106 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 19:36:52,214 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[6]/span/input[1]')，输入测试
+2023-05-28 19:36:52,260 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="toolbar"]/div[7]/span/span/a')，进行点击
+2023-05-28 19:36:52,335 - main.base - base_page.py[line:58] - INFO - 正在定位('id', '_easyui_combobox_i3_0')，进行点击
+2023-05-28 19:36:52,394 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="search-btn"]/span')，进行点击
+2023-05-28 19:36:54,514 - main.test_cases - test_case_01.py[line:60] - INFO - 搜索条件姓名输入框中输入测试
+2023-05-28 19:36:59,515 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index的网址
+2023-05-28 19:36:59,777 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a/span[2]')，进行点击
+2023-05-28 19:37:00,071 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="add"]/span/span[1]')，进行点击
+2023-05-28 19:37:00,154 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，进行点击
+2023-05-28 19:37:00,247 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试添加58
+2023-05-28 19:37:00,282 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[2]/td[2]/span/input[1]')，输入123456
+2023-05-28 19:37:00,334 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[3]/td[2]/span/span/a')，进行点击
+2023-05-28 19:37:00,388 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i1_0"]')，进行点击
+2023-05-28 19:37:00,441 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入15235689564
+2023-05-28 19:37:00,489 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[5]/td[2]/span/input[1]')，输入2558465236
+2023-05-28 19:37:00,538 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[6]/td[2]/span/span/a')，进行点击
+2023-05-28 19:37:00,596 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i6_0"]')，进行点击
+2023-05-28 19:37:00,659 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="addForm"]/table/tbody/tr[7]/td[2]/input')，输入E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png
+2023-05-28 19:37:00,691 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[7]/div[3]/a[1]/span')，进行点击
+2023-05-28 19:37:02,840 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 19:37:04,903 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 19:37:05,099 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 19:37:05,396 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 19:37:05,479 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="edit"]/span')，进行点击
+2023-05-28 19:37:05,595 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[1]/td[2]/span/input[1]')，输入测试修改37
+2023-05-28 19:37:05,647 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[2]/td[2]/span/span/a')，进行点击
+2023-05-28 19:37:05,711 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i2_0"]')，进行点击
+2023-05-28 19:37:05,800 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[3]/td[2]/span/input[1]')，输入18523454563
+2023-05-28 19:37:05,879 - main.base - base_page.py[line:49] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[4]/td[2]/span/input[1]')，输入2558546356
+2023-05-28 19:37:05,916 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="editForm"]/table/tbody/tr[5]/td[2]/span/span/a')，进行点击
+2023-05-28 19:37:05,978 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="_easyui_combobox_i7_1"]')，进行点击
+2023-05-28 19:37:06,034 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[10]/div[3]/a[1]/span')，进行点击
+2023-05-28 19:37:06,153 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 19:37:16,231 - main.base - base_page.py[line:38] - INFO - 正在访问http://localhost:8090/system/index#的网址
+2023-05-28 19:37:16,524 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="nav"]/div[1]/div[2]/ul/li/div/a')，进行点击
+2023-05-28 19:37:16,902 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="datagrid-row-r1-2-0"]/td[1]/div/input')，进行点击
+2023-05-28 19:37:17,020 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '//*[@id="delete"]/span/span[1]')，进行点击
+2023-05-28 19:37:17,108 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a[1]')，进行点击
+2023-05-28 19:37:19,216 - main.base - base_page.py[line:58] - INFO - 正在定位('xpath', '/html/body/div[13]/div[2]/div[4]/a')，进行点击
+2023-05-28 19:37:19,289 - main.Delete_Student - test_case_01.py[line:107] - INFO - 删除姓名为测试修改37的数据

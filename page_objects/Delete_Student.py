@@ -18,10 +18,10 @@ class DeleteStudent(BasePage):
         text = self.tt(deleteStudent.name)
         self.click(deleteStudent.delete_button)
         self.click(deleteStudent.Ok)
-        text_2 = self.tt(deleteStudent.text_1)
         time.sleep(2)
+        text_2 = self.tt(deleteStudent.text_1)
         self.click(deleteStudent.Ok_0)
 
-        return text_2
+        return text, text_2
 
 

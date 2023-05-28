@@ -18,7 +18,11 @@
     下拉框中选择选项
     关闭
 '''
+import logging
+
 from selenium.webdriver.support.select import Select
+
+log = logging.getLogger('main.base')
 
 
 class BasePage:
@@ -26,27 +30,40 @@ class BasePage:
 
     # 构造函数
     def __init__(self, driver):
+        log.info('初始化{}浏览器'.format(driver))
         self.driver = driver
 
     # 访问url
     def visit(self, url):
+        log.info('正在访问{}的网址'.format(url))
         self.driver.get(url)
         self.driver.maximize_window()
 
-    # 元素定位
+    # 元素定位,设计成元组
     def locator(self, loc):
         return self.driver.find_element(*loc)
 
     # 输入
     def input_(self, loc, txt):
-        self.locator(loc).send_keys(txt)
+        try:
+            log.info('正在定位{}，输入{}'.format(loc, txt))
+            self.locator(loc).send_keys(txt)
+        # 捕获错误日志
+        except Exception as e:  # 把错误日志保存到e中
+            log.error('输入内容失败%S' % e)
 
     # 点击
     def click(self, loc):
-        self.locator(loc).click()
+        try:
+            log.info('正在定位{}，进行点击'.format(loc))
+            self.locator(loc).click()
+        # 捕获错误日志
+        except Exception as e:  # 把错误日志保存到e中
+            log.error('点击失败%S' % e)
 
     # 等待
     def wait_time(self, times):
+        log.info('正在等待元素')
         self.driver.implicitly_wait(times)
 
     # 定位新弹出的页面/窗口

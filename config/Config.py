@@ -33,10 +33,11 @@ config = _get_all_conf()
 sys_cfg = config['sys']
 smtp_cfg = config['smtp']
 email_cfg = config['email']
-log_cfg = config['Log']
+log_cfg = config['log']
 
-
+"""
 print(sys_cfg)
 print(smtp_cfg)
 print(smtp_cfg['port'])
 print(log_cfg)
+"""

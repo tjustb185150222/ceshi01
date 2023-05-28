@@ -3,6 +3,7 @@
     主题内容包括：1、核心的页面元素：账号，密码，登录角色，登录按钮
                2、核心的业务源：用户的登录行为
 '''
+import os
 import time
 from base.base_page import BasePage
 from page_locators.login_page_locator import LoginPageLocator as login_page  # 导入该模块下的登录类，并通过 as 进行重命名进行引用
@@ -34,18 +35,20 @@ class StudentLogin(BasePage):
 
         getUrl = self.get_url()
         # print(getUrl)
+        base_path = os.path.dirname(__file__)  # 获取当前文件路径的上上层路径
+        report = os.path.join(base_path, 'img')  # 拼接img的绝对路径
         if getUrl == 'http://localhost:8090/system/index':
             text03 = self.tt(login_page.text01)
-            # print(text03)
-            # self.assertEqual(username, text03)
             if text03 == 'admin':
                 # print("登陆成功")
-                self.save_img('E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png')
+                # self.save_img('E:\pycharmdata\ceshi01\img\学生管理系统登录功能成功.png')
+                self.save_img(os.path.join(report, '学生管理系统登录功能成功.png'))
         if getUrl != 'http://localhost:8090/system/index':
             text04 = self.tt(login_page.text02)
             if text04 == '用户名或密码错误':
                 # print("登陆失败")
-                self.save_img('E:\pycharmdata\ceshi01\img\学生管理系统登录功能失败.png')
+                # self.save_img('E:\pycharmdata\ceshi01\img\学生管理系统登录功能失败.png')
+                self.save_img(os.path.join(report, '学生管理系统登录功能失败.png'))
 
 
 '''调试代码'''
